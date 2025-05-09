@@ -15,9 +15,9 @@ ui_print "
 
 
 "
-echo "id=实验字库0.1
-name=实验字库0.1
-version=0.1
-versionCode=0.1
-author=fisher4124@qq.com
-description=实验字库0.1 [刷入时间：$(date '+%g-%m-%d %H:%M:%S')]" > $MODPATH/module.prop
+echo "id=实验字库1.0
+name=实验字库1.0
+version=1.0
+versionCode=1.0
+author=Fisher4124
+description=实验字库1.0 [刷入时间：$(date '+%g-%m-%d %H:%M:%S')]" > $MODPATH/module.prop
