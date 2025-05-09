@@ -1,6 +1,6 @@
 # ExptFont-MagiskModule<br>实验字库（Magisk模块）
 
-![实机演示：桌面、微信公众号文章、知乎app首页](Presentation_1.0.png) 实机演示：桌面、微信公众号文章、知乎app首页
+![实机演示：桌面、微信公众号文章、知乎app首页](Presentation_1.01.png) 实机演示：桌面、微信公众号文章、知乎app首页
 
 ## 模块简介
 本模块修改自[LXGW的作品](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)，目的在于平衡移动端文本阅读美观性与功能性，同时保证扩展字符的全覆盖。
