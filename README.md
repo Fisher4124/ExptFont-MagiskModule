@@ -15,11 +15,11 @@
 | <span style="font-weight: 300;">中文正体-细</span> | 宋一体  | [相关历史文化](http://printinginst.com/newsinfo/2222180.html) |  | `ExptFont/system/fonts/fontchw3.otf` |
 | _中文斜体-常规_ | [霞鹜文楷-屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)v1.510  | 所谓“斜体”（italic）脱胎于西文手写体，对中文而言，使用楷体再合适不过。 | `ExptFont/system/fonts/fontciw4.ttf` |
 | _**中文斜体-粗**_ | [阿里妈妈东方大楷](https://www.maoken.com/freefonts/17643.html) | 喜不喜欢妈妈？ | `ExptFont/system/fonts/fontciw5.ttf` |
-| <span style="font-weight: 300;">_中文斜体-细_</span> | [霞鹜文楷（Light字重）](https://github.com/lxgw/LxgwWenKai)v1.511 | 增大差异度。 | `ExptFont/system/fonts/fontciw3.ttf` |
+| <span style="font-weight: 300;">_中文斜体-细_</span> | [霞鹜文楷（Light字重）](https://github.com/lxgw/LxgwWenKai)v1.511 | 选用light字重以增大差异度。 | `ExptFont/system/fonts/fontciw3.ttf` |
 | Latin-Normal-Regular | [天珩泰晤士报体（TH-Times）](http://cheonhyeong.com/Tools/Times.html)v8.01 | **西文字形主体风格**，同时保证各类复杂文种正常显示。信息详见[说明文档](http://cheonhyeong.com/Tools/Times.html)。 | `ExptFont/system/fonts/fontenw4.ttc` |
-| **Latin-Normal-Bold**;<br>_-Italic-Regular; **Bold**_ | 泰晤士报新罗马体（_Times_ **New** Roman） | 增补中文标点符号。 | `ExptFont/system/fonts/fontenw5.ttf`; `fonteiw4.ttf`; `fonteiw5.ttf` |
-| <span style="font-weight: 300;">Latin-Normal-Light;<br>_-Italic-Light_<span style="font-weight: 300;"> | [计算机现代体-统一码版（Computer Modern-Unicode）](https://ctan.org/pkg/cm-unicode)v0.7.0 | 增补中文标点符号。 | `ExptFont/system/fonts/fontenw3.ttf`、`fonteiw3.ttf` |
-| 扩展字符支持 | [天珩全字库（TH-Tshyn）](http://cheonhyeong.com/Simplified/download.html)v4.1.0 | **用于fallback**，覆盖[Unicode®16.0](https://www.unicode.org/versions/Unicode16.0.0/)全部字符（包括所有扩展汉字）。 | `ExptFont/system/fonts/TH-Tshyn-P0.ttf`、`TH-Tshyn-P1.ttf`、`TH-Tshyn-P2.ttf`、`TH-Tshyn-P16.ttf` |
+| **Latin-Normal-Bold**;<br>_-Italic-Regular; **Bold**_ | 泰晤士报新罗马体（_Times_ **New** Roman） | 久经 | `ExptFont/system/fonts/fontenw5.ttf`; `fonteiw4.ttf`; `fonteiw5.ttf` |
+| <span style="font-weight: 300;">Latin-Normal-Light;<br>_-Italic-Light_<span style="font-weight: 300;"> | [计算机现代体-统一码版（Computer Modern-Unicode）](https://ctan.org/pkg/cm-unicode)v0.7.0 | 考验 | `ExptFont/system/fonts/fontenw3.ttf`; `fonteiw3.ttf` |
+| 扩展字符支持 | [天珩全字库（TH-Tshyn）](http://cheonhyeong.com/Simplified/download.html)v4.1.0 | **用于fallback**，覆盖[Unicode®16.0](https://www.unicode.org/versions/Unicode16.0.0/)全部字符（包括所有扩展汉字）。 | `ExptFont/system/fonts/TH-Tshyn-P0.ttf`; `TH-Tshyn-P1.ttf`; `TH-Tshyn-P2.ttf`; `TH-Tshyn-P16.ttf` |
 
 ---
 
