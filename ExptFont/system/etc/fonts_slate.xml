@@ -40,17 +40,17 @@
    </family>
     <!-- lxgw 注：其次调用自定义字体，自定义字体将在 CJK 部分再次调用 -->
     <family>
-        <font weight="100" style="normal">fontenw1.ttf</font>
-        <font weight="200" style="normal">fontenw2.ttf</font>
+        <font weight="100" style="normal">fontenw3.ttf</font>
+        <font weight="200" style="normal">fontenw3.ttf</font>
         <font weight="300" style="normal">fontenw3.ttf</font>
         <font weight="400" style="normal">fontenw4.ttc</font>
-        <font weight="500" style="normal">fontchw5.otf</font>
-        <font weight="600" style="normal">fontchw5.otf</font>
-        <font weight="700" style="normal">fontchw5.otf</font>
-        <font weight="800" style="normal">fontchw5.otf</font>
-        <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fonteiw1.ttf</font>
-        <font weight="200" style="italic">fonteiw2.ttf</font>
+        <font weight="500" style="normal">fontenw5.ttf</font>
+        <font weight="600" style="normal">fontenw5.ttf</font>
+        <font weight="700" style="normal">fontenw5.ttf</font>
+        <font weight="800" style="normal">fontenw5.ttf</font>
+        <font weight="900" style="normal">fontenw5.ttf</font>
+        <font weight="100" style="italic">fonteiw3.ttf</font>
+        <font weight="200" style="italic">fonteiw3.ttf</font>
         <font weight="300" style="italic">fonteiw3.ttf</font>
         <font weight="400" style="italic">fonteiw4.ttf</font>
         <font weight="500" style="italic">fonteiw5.ttf</font>
@@ -1369,17 +1369,17 @@
     </family>
     <!-- lxgw 注：CJK 部分首先调用西文字体 -->
     <family lang="zh-Hans">
-        <font weight="100" style="normal">fontenw1.ttf</font>
-        <font weight="200" style="normal">fontenw2.ttf</font>
+        <font weight="100" style="normal">fontenw3.ttf</font>
+        <font weight="200" style="normal">fontenw3.ttf</font>
         <font weight="300" style="normal">fontenw3.ttf</font>
         <font weight="400" style="normal">fontenw4.ttc</font>
-        <font weight="500" style="normal">fontchw5.otf</font>
-        <font weight="600" style="normal">fontchw5.otf</font>
-        <font weight="700" style="normal">fontchw5.otf</font>
-        <font weight="800" style="normal">fontchw5.otf</font>
-        <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fonteiw1.ttf</font>
-        <font weight="200" style="italic">fonteiw2.ttf</font>
+        <font weight="500" style="normal">fontenw5.ttf</font>
+        <font weight="600" style="normal">fontenw5.ttf</font>
+        <font weight="700" style="normal">fontenw5.ttf</font>
+        <font weight="800" style="normal">fontenw5.ttf</font>
+        <font weight="900" style="normal">fontenw5.ttf</font>
+        <font weight="100" style="italic">fonteiw3.ttf</font>
+        <font weight="200" style="italic">fonteiw3.ttf</font>
         <font weight="300" style="italic">fonteiw3.ttf</font>
         <font weight="400" style="italic">fonteiw4.ttf</font>
         <font weight="500" style="italic">fonteiw5.ttf</font>
@@ -1389,17 +1389,17 @@
         <font weight="900" style="italic">fonteiw5.ttf</font>
     </family>
     <family lang="zh-Hant">
-        <font weight="100" style="normal">fontenw1.ttf</font>
-        <font weight="200" style="normal">fontenw2.ttf</font>
+        <font weight="100" style="normal">fontenw3.ttf</font>
+        <font weight="200" style="normal">fontenw3.ttf</font>
         <font weight="300" style="normal">fontenw3.ttf</font>
         <font weight="400" style="normal">fontenw4.ttc</font>
-        <font weight="500" style="normal">fontchw5.otf</font>
-        <font weight="600" style="normal">fontchw5.otf</font>
-        <font weight="700" style="normal">fontchw5.otf</font>
-        <font weight="800" style="normal">fontchw5.otf</font>
-        <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fonteiw1.ttf</font>
-        <font weight="200" style="italic">fonteiw2.ttf</font>
+        <font weight="500" style="normal">fontenw5.ttf</font>
+        <font weight="600" style="normal">fontenw5.ttf</font>
+        <font weight="700" style="normal">fontenw5.ttf</font>
+        <font weight="800" style="normal">fontenw5.ttf</font>
+        <font weight="900" style="normal">fontenw5.ttf</font>
+        <font weight="100" style="italic">fonteiw3.ttf</font>
+        <font weight="200" style="italic">fonteiw3.ttf</font>
         <font weight="300" style="italic">fonteiw3.ttf</font>
         <font weight="400" style="italic">fonteiw4.ttf</font>
         <font weight="500" style="italic">fonteiw5.ttf</font>
@@ -1409,17 +1409,17 @@
         <font weight="900" style="italic">fonteiw5.ttf</font>
     </family>
     <family lang="ja">
-        <font weight="100" style="normal">fontenw1.ttf</font>
-        <font weight="200" style="normal">fontenw2.ttf</font>
+        <font weight="100" style="normal">fontenw3.ttf</font>
+        <font weight="200" style="normal">fontenw3.ttf</font>
         <font weight="300" style="normal">fontenw3.ttf</font>
         <font weight="400" style="normal">fontenw4.ttc</font>
-        <font weight="500" style="normal">fontchw5.otf</font>
-        <font weight="600" style="normal">fontchw5.otf</font>
-        <font weight="700" style="normal">fontchw5.otf</font>
-        <font weight="800" style="normal">fontchw5.otf</font>
-        <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fonteiw1.ttf</font>
-        <font weight="200" style="italic">fonteiw2.ttf</font>
+        <font weight="500" style="normal">fontenw5.ttf</font>
+        <font weight="600" style="normal">fontenw5.ttf</font>
+        <font weight="700" style="normal">fontenw5.ttf</font>
+        <font weight="800" style="normal">fontenw5.ttf</font>
+        <font weight="900" style="normal">fontenw5.ttf</font>
+        <font weight="100" style="italic">fonteiw3.ttf</font>
+        <font weight="200" style="italic">fonteiw3.ttf</font>
         <font weight="300" style="italic">fonteiw3.ttf</font>
         <font weight="400" style="italic">fonteiw4.ttf</font>
         <font weight="500" style="italic">fonteiw5.ttf</font>
@@ -1429,17 +1429,17 @@
         <font weight="900" style="italic">fonteiw5.ttf</font>
     </family>
     <family lang="ko">
-        <font weight="100" style="normal">fontenw1.ttf</font>
-        <font weight="200" style="normal">fontenw2.ttf</font>
+        <font weight="100" style="normal">fontenw3.ttf</font>
+        <font weight="200" style="normal">fontenw3.ttf</font>
         <font weight="300" style="normal">fontenw3.ttf</font>
         <font weight="400" style="normal">fontenw4.ttc</font>
-        <font weight="500" style="normal">fontchw5.otf</font>
-        <font weight="600" style="normal">fontchw5.otf</font>
-        <font weight="700" style="normal">fontchw5.otf</font>
-        <font weight="800" style="normal">fontchw5.otf</font>
-        <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fonteiw1.ttf</font>
-        <font weight="200" style="italic">fonteiw2.ttf</font>
+        <font weight="500" style="normal">fontenw5.ttf</font>
+        <font weight="600" style="normal">fontenw5.ttf</font>
+        <font weight="700" style="normal">fontenw5.ttf</font>
+        <font weight="800" style="normal">fontenw5.ttf</font>
+        <font weight="900" style="normal">fontenw5.ttf</font>
+        <font weight="100" style="italic">fonteiw3.ttf</font>
+        <font weight="200" style="italic">fonteiw3.ttf</font>
         <font weight="300" style="italic">fonteiw3.ttf</font>
         <font weight="400" style="italic">fonteiw4.ttf</font>
         <font weight="500" style="italic">fonteiw5.ttf</font>
@@ -1450,8 +1450,8 @@
     </family>
     <!-- lxgw 注：其次调用各自语言字体 -->
     <family lang="zh-Hans">
-        <font weight="100" style="normal">fontchw1.ttf</font>
-        <font weight="200" style="normal">fontchw2.ttf</font>
+        <font weight="100" style="normal">fontchw3.ttf</font>
+        <font weight="200" style="normal">fontchw3.ttf</font>
         <font weight="300" style="normal">fontchw3.ttf</font>
         <font weight="400" style="normal">fontchw4.otf</font>
         <font weight="500" style="normal">fontchw5.otf</font>
@@ -1459,8 +1459,8 @@
         <font weight="700" style="normal">fontchw5.otf</font>
         <font weight="800" style="normal">fontchw5.otf</font>
         <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fontciw1.ttf</font>
-        <font weight="200" style="italic">fontciw2.ttf</font>
+        <font weight="100" style="italic">fontciw3.ttf</font>
+        <font weight="200" style="italic">fontciw3.ttf</font>
         <font weight="300" style="italic">fontciw3.ttf</font>
         <font weight="400" style="italic">fontciw4.ttf</font>
         <font weight="500" style="italic">fontciw5.ttf</font>
@@ -1470,8 +1470,8 @@
         <font weight="900" style="italic">fontciw5.ttf</font>
     </family>
     <family lang="zh-Hant">
-        <font weight="100" style="normal">fontchw1.ttf</font>
-        <font weight="200" style="normal">fontchw2.ttf</font>
+        <font weight="100" style="normal">fontchw3.ttf</font>
+        <font weight="200" style="normal">fontchw3.ttf</font>
         <font weight="300" style="normal">fontchw3.ttf</font>
         <font weight="400" style="normal">fontchw4.otf</font>
         <font weight="500" style="normal">fontchw5.otf</font>
@@ -1479,8 +1479,8 @@
         <font weight="700" style="normal">fontchw5.otf</font>
         <font weight="800" style="normal">fontchw5.otf</font>
         <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fontciw1.ttf</font>
-        <font weight="200" style="italic">fontciw2.ttf</font>
+        <font weight="100" style="italic">fontciw3.ttf</font>
+        <font weight="200" style="italic">fontciw3.ttf</font>
         <font weight="300" style="italic">fontciw3.ttf</font>
         <font weight="400" style="italic">fontciw4.ttf</font>
         <font weight="500" style="italic">fontciw5.ttf</font>
@@ -1579,8 +1579,8 @@
         <font weight="900" style="normal">fontkrw9.ttf</font>
     </family>
     <family lang="ja">
-        <font weight="100" style="normal">fontchw1.ttf</font>
-        <font weight="200" style="normal">fontchw2.ttf</font>
+        <font weight="100" style="normal">fontchw3.ttf</font>
+        <font weight="200" style="normal">fontchw3.ttf</font>
         <font weight="300" style="normal">fontchw3.ttf</font>
         <font weight="400" style="normal">fontchw4.otf</font>
         <font weight="500" style="normal">fontchw5.otf</font>
@@ -1588,8 +1588,8 @@
         <font weight="700" style="normal">fontchw5.otf</font>
         <font weight="800" style="normal">fontchw5.otf</font>
         <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fontciw1.ttf</font>
-        <font weight="200" style="italic">fontciw2.ttf</font>
+        <font weight="100" style="italic">fontciw3.ttf</font>
+        <font weight="200" style="italic">fontciw3.ttf</font>
         <font weight="300" style="italic">fontciw3.ttf</font>
         <font weight="400" style="italic">fontciw4.ttf</font>
         <font weight="500" style="italic">fontciw5.ttf</font>
@@ -1599,8 +1599,8 @@
         <font weight="900" style="italic">fontciw5.ttf</font>
     </family>
     <family lang="ko">
-        <font weight="100" style="normal">fontchw1.ttf</font>
-        <font weight="200" style="normal">fontchw2.ttf</font>
+        <font weight="100" style="normal">fontchw3.ttf</font>
+        <font weight="200" style="normal">fontchw3.ttf</font>
         <font weight="300" style="normal">fontchw3.ttf</font>
         <font weight="400" style="normal">fontchw4.otf</font>
         <font weight="500" style="normal">fontchw5.otf</font>
@@ -1608,8 +1608,8 @@
         <font weight="700" style="normal">fontchw5.otf</font>
         <font weight="800" style="normal">fontchw5.otf</font>
         <font weight="900" style="normal">fontchw5.otf</font>
-        <font weight="100" style="italic">fontciw1.ttf</font>
-        <font weight="200" style="italic">fontciw2.ttf</font>
+        <font weight="100" style="italic">fontciw3.ttf</font>
+        <font weight="200" style="italic">fontciw3.ttf</font>
         <font weight="300" style="italic">fontciw3.ttf</font>
         <font weight="400" style="italic">fontciw4.ttf</font>
         <font weight="500" style="italic">fontciw5.ttf</font>
