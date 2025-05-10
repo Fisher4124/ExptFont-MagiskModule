@@ -1837,7 +1837,28 @@
             <axis tag="wght" stylevalue="700"/>
         </font>
     </family>
-    <!-- lxgw 注：最后增加对「天珩全字库」第 0、1、2、3 平面的支持 -->
+    <!-- lxgw 注：最后增加对「天珩全字库」第 0、1、2、3 平面的支持
+        Fisher4124注：添加TH-Times（fontenw4.ttc）对复杂文种的全域fallback。 -->
+    <family>
+        <font weight="100" style="normal">fontenw4.ttc</font>
+        <font weight="200" style="normal">fontenw4.ttc</font>
+        <font weight="300" style="normal">fontenw4.ttc</font>
+        <font weight="400" style="normal">fontenw4.ttc</font>
+        <font weight="500" style="normal">fontenw4.ttc</font>
+        <font weight="600" style="normal">fontenw4.ttc</font>
+        <font weight="700" style="normal">fontenw4.ttc</font>
+        <font weight="800" style="normal">fontenw4.ttc</font>
+        <font weight="900" style="normal">fontenw4.ttc</font>
+        <font weight="100" style="italic">fontenw4.ttc</font>
+        <font weight="200" style="italic">fontenw4.ttc</font>
+        <font weight="300" style="italic">fontenw4.ttc</font>
+        <font weight="400" style="italic">fontenw4.ttc</font>
+        <font weight="500" style="italic">fontenw4.ttc</font>
+        <font weight="600" style="italic">fontenw4.ttc</font>
+        <font weight="700" style="italic">fontenw4.ttc</font>
+        <font weight="800" style="italic">fontenw4.ttc</font>
+        <font weight="900" style="italic">fontenw4.ttc</font>
+    </family>
     <family>
         <font weight="100" style="normal">TH-Tshyn-P0.ttf</font>
         <font weight="200" style="normal">TH-Tshyn-P0.ttf</font>
