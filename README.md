@@ -21,7 +21,7 @@
     <tr>
       <td>中文正体-常规</td>
       <td>
-        <a href="https://github.com/notofonts/noto-cjk">思源宋体（SemiBold字重）v2.003</a>
+        <a href="https://github.com/notofonts/noto-cjk">思源宋体（SemiBold字重）</a>v2.003
       </td>
       <td><strong>中文字形主体风格</strong>，SemiBold起手，看起来超爽。</td>
         <td><code>ExptFont/system/fonts/fontchw4.otf</code></td>
@@ -29,7 +29,7 @@
     <tr>
       <td><strong>中文正体-粗</strong></td>
       <td>
-        <a href="https://github.com/notofonts/noto-cjk">思源宋体（Blold字重）v2.003</a>
+        <a href="https://github.com/notofonts/noto-cjk">思源宋体（Blold字重）</a>v2.003
       </td>
       <td>类似<a href="https://www.foundertype.com/index.php/FontInfo/index/id/164">小标宋</a>的字重。</td>
       <td><code>ExptFont/system/fonts/fontchw5.otf</code></td>
@@ -43,7 +43,7 @@
       <td><code>ExptFont/system/fonts/fontchw3.otf</code></td>
     </tr>
     <tr>
-      <td>_中文斜体-常规_</td>
+        <td><em>中文斜体-常规</em></td>
       <td>正文楷</td>
       <td rowspan=2>所谓“斜体”（italic）脱胎于西文手写体，对中文而言，使用楷体再合适不过。</td>
       <td><code>ExptFont/system/fonts/fontciw4.ttf</code></td>
@@ -62,7 +62,7 @@
     <tr>
       <td>Latin-Normal-Regular</td>
       <td>
-        <a href="http://cheonhyeong.com/Tools/Times.html">天珩泰晤士报体（TH-Times）v8.01</a>
+        <a href="http://cheonhyeong.com/Tools/Times.html">天珩泰晤士报体（TH-Times）</a>v8.01
       </td>
       <td><strong>西文字形主体风格</strong>，同时保证各类复杂文种正常显示。字体信息详见<a href="http://cheonhyeong.com/Tools/Times.html">说明文档</a>。</td>
       <td><code>ExptFont/system/fonts/fontenw4.ttc</code></td>
@@ -82,7 +82,7 @@
         <em><span style="font-weight: 300;">-Italic-Light</span></em>
       </td>
       <td>
-        <a href="https://ctan.org/pkg/cm-unicode">计算机现代体-统一码版（Computer Modern-Unicode）v0.7.0</a>
+        <a href="https://ctan.org/pkg/cm-unicode">计算机现代体-统一码版（Computer Modern-Unicode）</a>v0.7.0
       </td>
       <td><code>ExptFont/system/fonts/fontenw3.ttf</code>; <code>fonteiw3.ttf</code></td>
     </tr>
@@ -96,6 +96,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 ---
