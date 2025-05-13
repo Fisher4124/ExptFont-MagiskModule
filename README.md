@@ -73,7 +73,7 @@
         <em>-Italic-Regular</em>; <strong>Bold</strong>
       </td>
       <td>泰晤士报新罗马体（<em>Times</em> <strong>New</strong> Roman）</td>
-      <td rowspan=2>久经考验</td>
+      <td rowspan=2>久经考验的。</td>
       <td><code>ExptFont/system/fonts/fontenw5.ttf</code>; <code>fonteiw4.ttf</code>; <code>fonteiw5.ttf</code></td>
     </tr>
     <tr>
@@ -97,12 +97,13 @@
   </tbody>
 </table>
 
+
 ---
 
 ## 安装说明
 
 0. 确定爱机装有“救砖模块”，且已做好数据备份。
-1. 在[Releases](https://github.com/Fisher4124/ExptFont-MagiskModule/releases)页面下载<code>ExptFont.zip<code> (或自行打包)，[百度网盘 (提取码lmqr)](https://pan.baidu.com/s/1YUE_1eQbMNQOK9kM16Fyog)。
+1. 在[Releases](https://github.com/Fisher4124/ExptFont-MagiskModule/releases)页面下载`ExptFont.zip` (或自行打包)，[百度网盘 (提取码0etm)](https://pan.baidu.com/s/1baPLW8VUTA3d4I1yQ3fbOw)。
 2. Magisk，启动！ → 右下角【模块】 → 上部【从本地安装】。
 3. 刷入后重启设备。
 
