@@ -1,16 +1,16 @@
 # ExptFont-MagiskModule<br>实验字库（Magisk模块）
 
+## 模块简介
+
+本模块修改自[LXGW的作品](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)，旨在手机上实现[天珩全字库（TH-Tshyn）](http://cheonhyeong.com/Simplified/download.html)的开箱即用，同时也尽力平衡移动端文本阅读的美观性与功能性。  
+
 ![实机演示_0](Presentation_250513_0.png)
 
-演示：手机桌面、DeepSeek提供的测试文本、[@YuKongA](https://github.com/YuKongA/) 制作[字重测试页面](https://font.yukonga.top/)（本模块共设置<span style="font-weight: 300;">细</span>、常规、**粗**3档字重)
+演示：手机桌面、DeepSeek提供的测试文本、[@YuKongA](https://github.com/YuKongA/) 制作[字重测试页面](https://font.yukonga.top/)（本模块共设置<span style="font-weight: 300;">细</span>、常规、**粗**3档字重)  
 
 ![实机演示_1](Presentation_250513_1.png)
 
 测试：支持[天珩全字库（TH-Tshyn）](http://cheonhyeong.com/Simplified/download.html)的扩展字符显示及[TH-Times](http://cheonhyeong.com/Tools/Times.html)对复杂文本的正确处理。
-
-## 模块简介
-
-本模块修改自[LXGW的作品](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)，旨在手机上实现[天珩全字库（TH-Tshyn）](http://cheonhyeong.com/Simplified/download.html)的开箱即用，同时也尽力平衡移动端文本阅读的美观性与功能性。
 
 ---
 
