@@ -48,7 +48,7 @@
       <td>
         <a href="http://printinginst.com/newsinfo/2222180.html">相关历史文化</a>。
       </td>
-      <td><code>ExptFont/system/fonts/fontchw3.otf</code></td>
+      <td><code>ExptFont/system/fonts/fontchw3.ttf</code></td>
     </tr>
     <tr>
         <td><em>中文斜体-常规</em></td>
@@ -64,7 +64,7 @@
     <tr>
       <td><span style="font-weight: 300;"><em>中文斜体-细</em></span></td>
       <td>仿宋体</td>
-      <td>增大差异度。</td>
+      <td>增大视觉差异度。</td>
       <td><code>ExptFont/system/fonts/fontciw3.ttf</code></td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@
     <tr>
       <td>
         <strong>Latin-Normal-Bold</strong>;<br>
-        <em>-Italic-Regular</em>; <strong>Bold</strong>
+        <em>-Italic-Regular; <strong>Bold</strong></em>
       </td>
       <td>泰晤士报新罗马体（<em>Times</em> <strong>New</strong> Roman）</td>
       <td rowspan=2>久经考验的。</td>
@@ -104,6 +104,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
