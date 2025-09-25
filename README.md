@@ -31,7 +31,7 @@
       <td>
         <a href="https://github.com/notofonts/noto-cjk">思源宋体（SemiBold字重）</a>v2.003
       </td>
-      <td><strong>中文字形主体风格</strong>，SemiBold起手，看起来超爽</td>
+      <td><strong>中文字形主体风格</strong>，SemiBold起手，看起来超爽。</td>
         <td><code>ExptFont/system/fonts/fontchw4.otf</code></td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@
       <td>
         <a href="https://github.com/notofonts/noto-cjk">思源宋体（Blold字重）</a>v2.003
       </td>
-      <td>类似<a href="https://www.foundertype.com/index.php/FontInfo/index/id/164">小标宋</a>的字重</td>
+      <td>类似<a href="https://www.foundertype.com/index.php/FontInfo/index/id/164">小标宋</a>的字重。</td>
       <td><code>ExptFont/system/fonts/fontchw5.otf</code></td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@
           <a href="https://www.maoken.com/freefonts/7400.html">文鼎PL细上海宋</a>
       </td>
       <td>
-        <a href="https://www.babelstone.co.uk/Fonts/Han.html">魏安修改版</a>
+        <a href="https://www.babelstone.co.uk/Fonts/Han.html">魏安修改版</a>。
       </td>
       <td><code>ExptFont/system/fonts/fontchw3.ttf</code></td>
     </tr>
@@ -66,7 +66,7 @@
     <tr>
       <td><span style="font-weight: 300;"><em>中文斜体-细</em></span></td>
       <td>仿宋体</td>
-      <td>增大视觉差异度</td>
+      <td>增大视觉差异度。</td>
       <td><code>ExptFont/system/fonts/fontciw3.ttf</code></td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@
         <em>-Italic-Regular; <strong>Bold</strong></em>
       </td>
       <td>泰晤士报新罗马体（<em>Times</em> <strong>New</strong> Roman）</td>
-      <td rowspan=2>久经考验的</td>
+      <td rowspan=2>久经考验的。</td>
       <td><code>ExptFont/system/fonts/fontenw5.ttf</code>; <code>fonteiw4.ttf</code>; <code>fonteiw5.ttf</code></td>
     </tr>
     <tr>
@@ -106,6 +106,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
