@@ -31,7 +31,7 @@
       <td>
         <a href="https://github.com/notofonts/noto-cjk">思源宋体（SemiBold字重）</a>v2.003
       </td>
-      <td><strong>中文字形主体风格</strong>，SemiBold起手，看起来超爽。</td>
+      <td><strong>中文字形主体风格</strong>，SemiBold起手，看起来超爽</td>
         <td><code>ExptFont/system/fonts/fontchw4.otf</code></td>
     </tr>
     <tr>
@@ -39,21 +39,23 @@
       <td>
         <a href="https://github.com/notofonts/noto-cjk">思源宋体（Blold字重）</a>v2.003
       </td>
-      <td>类似<a href="https://www.foundertype.com/index.php/FontInfo/index/id/164">小标宋</a>的字重。</td>
+      <td>类似<a href="https://www.foundertype.com/index.php/FontInfo/index/id/164">小标宋</a>的字重</td>
       <td><code>ExptFont/system/fonts/fontchw5.otf</code></td>
     </tr>
     <tr>
       <td><span style="font-weight: 300;">中文正体-细</span></td>
-      <td>宋一体</td>
       <td>
-        <a href="http://printinginst.com/newsinfo/2222180.html">相关历史文化</a>。
+          <a href="https://www.maoken.com/freefonts/7400.html">文鼎PL细上海宋</a>
+      </td>
+      <td>
+        <a href="https://www.babelstone.co.uk/Fonts/Han.html">魏安修改版</a>
       </td>
       <td><code>ExptFont/system/fonts/fontchw3.ttf</code></td>
     </tr>
     <tr>
         <td><em>中文斜体-常规</em></td>
       <td>正文楷</td>
-      <td rowspan=2>所谓“斜体”（italic）脱胎于西文手写体，对中文而言，使用楷体再合适不过。</td>
+      <td rowspan=2>所谓“斜体”（italic）脱胎于西文手写体，故中文使用楷体对应。</td>
       <td><code>ExptFont/system/fonts/fontciw4.ttf</code></td>
     </tr>
     <tr>
@@ -64,7 +66,7 @@
     <tr>
       <td><span style="font-weight: 300;"><em>中文斜体-细</em></span></td>
       <td>仿宋体</td>
-      <td>增大视觉差异度。</td>
+      <td>增大视觉差异度</td>
       <td><code>ExptFont/system/fonts/fontciw3.ttf</code></td>
     </tr>
     <tr>
@@ -81,7 +83,7 @@
         <em>-Italic-Regular; <strong>Bold</strong></em>
       </td>
       <td>泰晤士报新罗马体（<em>Times</em> <strong>New</strong> Roman）</td>
-      <td rowspan=2>久经考验的。</td>
+      <td rowspan=2>久经考验的</td>
       <td><code>ExptFont/system/fonts/fontenw5.ttf</code>; <code>fonteiw4.ttf</code>; <code>fonteiw5.ttf</code></td>
     </tr>
     <tr>
@@ -97,13 +99,14 @@
     <tr>
       <td>扩展字符支持</td>
       <td>
-        <a href="http://cheonhyeong.com/Simplified/download.html">天珩全字库（TH-Tshyn）v4.1.0</a>
+        <a href="http://cheonhyeong.com/Simplified/download.html">天珩全字库（TH-Tshyn）v5.0.0</a>
       </td>
-      <td><strong>用于fallback</strong>，覆盖<a href="https://www.unicode.org/versions/Unicode16.0.0/">Unicode®16.0</a>全部字符（包括所有扩展汉字）。</td>
+      <td><strong>用于fallback</strong>，覆盖<a href="https://www.unicode.org/versions/Unicode17.0.0/">Unicode®17.0</a>全部字符（包括J区在内的所有扩展汉字）。</td>
       <td><code>ExptFont/system/fonts/fontenw4.ttc</code>; <code>TH-Tshyn-P0.ttf</code>; <code>TH-Tshyn-P1.ttf</code>; <code>TH-Tshyn-P2.ttf</code>; <code>TH-Tshyn-P16.ttf</code></td>
     </tr>
   </tbody>
 </table>
+
 
 
 
