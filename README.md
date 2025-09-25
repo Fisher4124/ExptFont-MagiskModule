@@ -72,7 +72,7 @@
     <tr>
       <td>Latin-Normal-Regular</td>
       <td>
-        <a href="http://cheonhyeong.com/Tools/Times.html">天珩泰晤士报体（TH-Times）</a>v8.01
+        <a href="http://cheonhyeong.com/Tools/Times.html">天珩泰晤士报体（TH-Times）</a>v8.02
       </td>
       <td><strong>西文字形主体风格</strong>，同时保证各类复杂文种正常显示。字体信息详见<a href="http://cheonhyeong.com/Tools/Times.html">说明文档</a>。</td>
       <td><code>ExptFont/system/fonts/fontenw4.ttc</code></td>
@@ -111,12 +111,13 @@
 
 
 
+
 ---
 
 ## 安装说明
 
 0. 确定爱机装有“救砖模块”，且已做好数据备份。
-1. 在[Releases](https://github.com/Fisher4124/ExptFont-MagiskModule/releases)页面下载`ExptFont.zip` (或自行打包)，[百度网盘 (提取码0etm)](https://pan.baidu.com/s/1baPLW8VUTA3d4I1yQ3fbOw)。
+1. 在[Releases](https://github.com/Fisher4124/ExptFont-MagiskModule/releases)页面下载`ExptFont.zip` (或自行打包)。
 2. Magisk，启动！ → 右下角【模块】 → 上部【从本地安装】。
 3. 刷入后重启设备。
 
