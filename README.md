@@ -118,7 +118,7 @@
 ## 安装说明
 
 0. 确定爱机装有“救砖模块”，且已做好数据备份。
-1. 在[Releases](https://github.com/Fisher4124/ExptFont-MagiskModule/releases)页面下载`ExptFont.zip`（或[百度网盘](https://pan.baidu.com/s/16ihrlHajWu4jtLkUHr3lpw)）。
+1. 在[Releases](https://github.com/Fisher4124/ExptFont-MagiskModule/releases)页面下载`ExptFont.zip`（或[百度网盘](https://pan.baidu.com/s/1ChRNMxBDq6FH4Mx6asz8Ow)）。
 2. Magisk，启动！ → 右下角【模块】 → 上部【从本地安装】。
 3. 刷入后重启设备。
 
